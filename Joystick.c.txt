@@ -1,0 +1,12 @@
+void setup() {
+    Serial.begin(115200);
+   
+}
+
+void loop() {
+    int x = analogread(PD_0); // Reads Joystick Values
+    int y = analogread(PD_1);
+   
+    Serial.println(x);
+    delay(1000);
+}
