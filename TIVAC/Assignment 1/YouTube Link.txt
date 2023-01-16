@@ -1,0 +1,7 @@
+Assignment 1a) Continuously display the X and Y axis values of the joystick on the terminal 
+
+https://www.youtube.com/watch?v=zo-2DuV_91g&list=PLEYwuhAoBI1ROjaOdZn-LBSkJ3wdOhjrM&index=3&ab_channel=SaiBalajiJaiKumar 
+
+Assignment 1b) PF1 button interrupt toggle LED 
+
+https://www.youtube.com/watch?v=rPwNdPNQWVw&list=PLEYwuhAoBI1ROjaOdZn-LBSkJ3wdOhjrM&index=2&ab_channel=SaiBalajiJaiKumar
