@@ -1,0 +1,7 @@
+Assignment 6a) Creating a TI 15.4 network with LaunchPad Sensor Tag  
+
+https://www.youtube.com/watch?v=btl1zXyK-Vg 
+
+Assignment 6b) Creating remote sensor using TI 15.4 Stack 
+
+https://www.youtube.com/shorts/jQWYwipdMoo
